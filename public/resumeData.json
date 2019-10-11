@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name":"Vaishnav",
+    "occupation":"Front End Developer",
+    "description":"Core competencies lying in User Experience/User Interface, Data and Web Analytics",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "vaishnavgoud@gmail.com",
+    "phone": "8500404970",
+    "address":{
+      "street":"Gachibowli",
+      "city":"Hyderabad",
+      "state":"Telangana",
+      "zip": "500008"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/0BwCD5vqiy3agT2VYVUpXTVZYWEppLTdTOXBTUWdhWnN4Sk5v/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://m.facebook.com/vaishnav.goud",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gangarapu-vaishnav/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/vaishnavgoud/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vaishnavgoud",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"IIT Bhubaneswar",
+        "degree":"Bachelors of Technology (Honors)",
+        "graduated":"May 2018",
+        "description":""
+      },
+      {
+        "school":"Kendriya Vidyalaya AFS Begumpet",
+        "degree":"HSC",
+        "graduated":"April 2012",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Deloitte Consulting US India",
+        "title":"Business Technology Analyst",
+        "years":"August 2018 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sony Playstation",
+        "category":"An eCommerce website for Sony Playstation products (Client Work)",
+        "image":"psstore.jpg",
+        "url":"direct.playstation.com"
+      },
+      {
+        "title":"Intel.com",
+        "category":"An eCommerce webiste for Intel products (Client Work)",
+        "image":"intel.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"VoiceNotes",
+        "category":"Website I built saving notes via voice commands",
+        "image":"voiceNotes.jpg",
+        "url":"https://voice-notes.netlify.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Vaishnav, your ability to quickly learn new technologies is amazing and you delivered stories same as other senior team members. You have taken the entire responsibility on ADA implementation. Really appreciate your great work and keep it up! Thank you!",
+        "user":"Pavan Musti  .... Specialist Master"
+      }
+    ]
+  }
+}
