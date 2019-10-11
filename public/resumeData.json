@@ -5,7 +5,7 @@
     "description":"Core competencies lying in User Experience/User Interface, Data and Web Analytics",
     "image":"profilepic.jpg",
     "bio":"",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Knock Knock, Who's this?",
     "email": "vaishnavgoud@gmail.com",
     "phone": "8500404970",
     "address":{
@@ -45,19 +45,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"Core skills lie around Full Stack Web Development and Site Traffic Data Analysis, Worked on eCommerce websites to gain knowledge on the supply chain management, content and commerce",
     "education":[
       {
         "school":"IIT Bhubaneswar",
         "degree":"Bachelors of Technology (Honors)",
         "graduated":"May 2018",
-        "description":""
+        "description":"The four years of college was a lot more that just Academic excellence, held various positions of responsibilities and was fortunate enough to travel to Shanghai for Intern in the Summer of 2017, gave a lot of exposure and learning"
       },
       {
         "school":"Kendriya Vidyalaya AFS Begumpet",
         "degree":"HSC",
         "graduated":"April 2012",
-        "description":""
+        "description":"Being a student in a Kendriya Vidyalaya helped an overall development, and the school being in the heart of the city, I got a chance to participate in many competitions like the TCS wiz quiz, Youth Parliaments, National level Olympiads and Art and Painting competitions which gave me an exposure around a various other aspects of student learning. I enthusiastically participated in all the Science and Social Science exhibitions. Learnt Basketball under dynamic coaching of well trained coach and played many tournaments."
       }
     ],
     "work":[
@@ -65,29 +65,34 @@
         "company":"Deloitte Consulting US India",
         "title":"Business Technology Analyst",
         "years":"August 2018 - Present",
-        "description":""
+        "description":"Belong to the Customer and Marketing Division of Deloitte Consulting, core expertise lying in creating and enhancing User Experience and User Interface of the e-commerce domain and worked for adding e-commerce platform for Clients from various industries like TMT/TMC and Entertainment."
       }
     ],
     "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
+      
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"85%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Adobe Analytics",
+        "level":"65%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
       },
       {
         "name":"VueJs",
@@ -95,7 +100,11 @@
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"60%"
+      },
+      {
+        "name":"R",
+        "level":"60%"
       }
     ]
   },
