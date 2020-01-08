@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Vaishnav Gangarapu",
-    "occupation":"Front End Developer",
+    "occupation":"Web Developer",
     "description":"Core competencies lying in User Experience/User Interface, Data and Web Analytics",
     "image":"profilepic.jpg",
     "bio":"",
@@ -14,7 +14,7 @@
       "state":"Telangana",
       "zip": "500008"
     },
-    "website": "",
+    "website": "https://vaishnav.netlify.com",
     "resumedownload":"https://drive.google.com/file/d/0BwCD5vqiy3agT2VYVUpXTVZYWEppLTdTOXBTUWdhWnN4Sk5v/view?usp=sharing",
     "social":[
       {
@@ -87,6 +87,10 @@
         "level":"70%"
       },
       {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
         "name":"Adobe Analytics",
         "level":"65%"
       },
@@ -135,6 +139,10 @@
       {
         "text":"Vaishnav, your ability to quickly learn new technologies is amazing and you delivered stories same as other senior team members. You have taken the entire responsibility on ADA implementation. Really appreciate your great work and keep it up! Thank you!",
         "user":"Pavan Musti  .... Specialist Master"
+      },
+      {
+        "text":"Vaishnav has demonstrated great commitment  and hardwork in taking care of the Analytics implementation and has owned the worked related to Accessibility track, Thank you for being Awesome",
+        "user":"Abdul Shaik  .... Senior Manager"
       }
     ]
   }
