@@ -115,6 +115,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Apple B2B e-commerce",
+        "category":"An eCommerce website for Apple products (Client Work)",
+        "image":"Apple.png",
+        "url":"https://www.apple.com/"
+      },
+      {
         "title":"Sony Playstation",
         "category":"An eCommerce website for Sony Playstation products (Client Work)",
         "image":"psstore.jpg",
@@ -142,7 +148,7 @@
       },
       {
         "text":"Vaishnav has demonstrated great commitment  and hardwork in taking care of the Analytics implementation and has owned the worked related to Accessibility track, Thank you for being Awesome",
-        "user":"Abdul Shaik  .... Senior Manager"
+        "user":"Abdul Shaik  .... Project Manager"
       }
     ]
   }
